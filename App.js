@@ -10,7 +10,6 @@ export default function App() {
     <NativeBaseProvider>
       <GestureHandlerRootView>
         <Game />
-        {/* <Reanimated /> */}
       </GestureHandlerRootView>
     </NativeBaseProvider>
   );
